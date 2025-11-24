@@ -5,8 +5,8 @@
 
 .NOTES
     Author           : Bryan Gilmore
-    LinkedIn         : <your LinkedIn URL>
-    GitHub           : <your GitHub URL>
+    LinkedIn         : https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/
+    GitHub           : https://github.com/bryangilmore
     Date Created     : 2025-11-23
     Last Modified    : 2025-11-23
     Version          : 1.0
